@@ -1,2 +1,1 @@
-# MLHS-ML
-repo for mlhs repos
+Домашнее задание 1
